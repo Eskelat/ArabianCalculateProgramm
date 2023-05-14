@@ -12,6 +12,7 @@ public class Calculator
                 "\nand space between. Like: '1 + 1' or 'I + I':");
 
 
+
         //input
 
         String input = scanner.nextLine().trim();
