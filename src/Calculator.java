@@ -13,6 +13,7 @@ public class Calculator
 
 
         //input
+
         String input = scanner.nextLine().trim();
         String[] credits = input.split(" ");
 
